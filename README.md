@@ -10,7 +10,7 @@ Lo que me interesa es la parte del trabajo donde una decisión técnica tiene co
 
 📂 **[Portafolio de arquitectura cloud](https://github.com/patvillarroel/portafolio)**
 
-🔗 [LinkedIn]([https://www.linkedin.com/in/patvillarroel/]) · [X]([https://x.com/patvillarroel_])
+🔗 [LinkedIn](https://www.linkedin.com/in/patvillarroel/) · [X](https://x.com/patvillarroel_)
 
 <!--
 **patvillarroel/patvillarroel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
